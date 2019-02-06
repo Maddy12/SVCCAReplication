@@ -1,3 +1,9 @@
 [submodule "svcca"]
 	path = svcca
 	url = https://github.com/google/svcca.git
+[submodule "homura"]
+	path = homura
+	url = https://github.com/moskomule/homura.git
+[submodule "cca.pytorch"]
+	path = cca.pytorch
+	url = https://github.com/moskomule/cca.pytorch.git
